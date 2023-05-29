@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79a1e385-105e-4a8c-a2d1-ef1b203fda0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/dbConnect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/jwtTocken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/refreshtoken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/blogController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/brandController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/couponController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/emailController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/productCategoryController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/productController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/userController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midddlewares/authMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midddlewares/errorHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midddlewares/uploadImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/blogModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/brandModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/cartModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/couponModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/orderModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/productCategoryModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/productModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/userModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/authRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/blogRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/brandRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/couponRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/productCategoryRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/productRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/cloudinary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/validatemondodbid.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVOz8eMzg1IL3oIQXxIZAXva2x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.13.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.13.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oleg/Desktop/marketplace_v2/ui-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79a1e385-105e-4a8c-a2d1-ef1b203fda0f" name="Changes" comment="" />
+      <created>1683539043381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683539043381</updated>
+      <workItem from="1683539044501" duration="987000" />
+      <workItem from="1683540062016" duration="54691000" />
+      <workItem from="1683887897338" duration="54834000" />
+      <workItem from="1685192527314" duration="13595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
