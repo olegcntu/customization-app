@@ -4,48 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a1e385-105e-4a8c-a2d1-ef1b203fda0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/dbConnect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jwtTocken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/refreshtoken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/blogController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/brandController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/couponController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/emailController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/productCategoryController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/productController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controller/userController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midddlewares/authMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midddlewares/errorHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midddlewares/uploadImages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/blogModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/brandModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/cartModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/couponModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/orderModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/productCategoryModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/productModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/authRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/blogRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/brandRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/couponRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/productCategoryRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/productRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/cloudinary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/validatemondodbid.js" afterDir="false" />
+    <list default="true" id="79a1e385-105e-4a8c-a2d1-ef1b203fda0f" name="Changes" comment="init-commit">
+      <change afterPath="$PROJECT_DIR$/controller/customizationController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/customizationRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/blogController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/brandController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/couponController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/emailController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/productCategoryController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/productController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/userController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midddlewares/uploadImages.js" beforeDir="false" afterPath="$PROJECT_DIR$/midddlewares/uploadImages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/blogModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/brandModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/cartModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/couponModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/orderModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/productCategoryModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/productModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/mainPageModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/authRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/blogRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/brandRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/couponRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/productCategoryRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/productRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/productRoute.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +67,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.13.0&quot;,
     &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.13.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/oleg/Desktop/marketplace_v2/ui-app&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oleg/Desktop/marketplace_v2/customization-app/routes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -96,6 +81,12 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oleg\Desktop\marketplace_v2\customization-app\routes" />
+      <recent name="C:\Users\oleg\Desktop\marketplace_v2\customization-app\models" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -124,11 +115,27 @@
       <workItem from="1683539044501" duration="987000" />
       <workItem from="1683540062016" duration="54691000" />
       <workItem from="1683887897338" duration="54834000" />
-      <workItem from="1685192527314" duration="13595000" />
+      <workItem from="1685192527314" duration="23026000" />
+      <workItem from="1685811593448" duration="2478000" />
+      <workItem from="1685960385664" duration="573000" />
+      <workItem from="1685960994579" duration="4750000" />
+      <workItem from="1686826134032" duration="703000" />
     </task>
+    <task id="LOCAL-00001" summary="init-commit">
+      <created>1685358982500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685358982500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init-commit" />
   </component>
 </project>
